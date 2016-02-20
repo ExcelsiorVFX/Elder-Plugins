@@ -15,3 +15,6 @@ Hey everyone! My name is ExcelsiorVFX, and I am an experienced 1.8 Spigot plugin
 
   3. ExcelsiorBase API                                                    
        Some simple utility classes that I use in almost all of my plugins.
+
+  4. UHC-Utils
+       This plugin is an example of how fast I can write code. This is a simple plugin, it only is a timer for UHC, but I wrote it to completion (debugging and such) in less than 20 minutes.
