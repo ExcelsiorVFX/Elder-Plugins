@@ -1,0 +1,21 @@
+name: ExcelsiorBaseAPI
+main: me.excelsiorvfx.ExcelsiorBase.ExcelsiorBase
+version: 1.0
+author: ExcelsiorVFX
+commands:
+   money:
+      description: Shows your money(s).
+   bal:
+      description: Shows your money(s).
+   balance:
+      description: Shows your money(s).
+   r:
+      description: Reload the server, but kick all players first to prevent lag.
+   rank:
+      description: Use the Rank tool.
+   purge:
+      description: Purge an ExcelsiorGame.
+   setJoin:
+      description: Set the joinability of an ExcelsiorGame.
+   open:
+      description: Open the reference inventory.
