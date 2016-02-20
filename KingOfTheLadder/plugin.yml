@@ -1,0 +1,12 @@
+name: KingOfTheLadder
+main: net.theelder.plugins.KingOfTheLadder.Main
+version: 1.7
+author: ExcelsiorVFX
+depend: [ExcelsiorBaseAPI-LE]
+commands:
+   kingoftheladder:
+      description: Use King of the Ladder commands.
+   kingotladder:
+      description: Use King of the Ladder commands.
+   kotl:
+      description: Use King of the Ladder commands.
