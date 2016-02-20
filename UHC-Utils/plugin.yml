@@ -1,0 +1,7 @@
+name: UHC-Utils
+main: me.excelsiorvfx.uhcutils.UHCUtils
+version: 1.0
+author: ExcelsiorVFX
+commands:
+   uhcutils:
+      description: Show UHC-Utils commands.
